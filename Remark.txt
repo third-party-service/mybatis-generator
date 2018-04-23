@@ -1,0 +1,13 @@
+﻿使用方式
+
+1、修改config.properties中参数
+2、打开Idea右侧MavenProjects 面板
+	Run Configurations => mybatis-generator 双击执行
+
+    或使用命令：
+    mvn mybatis-generator:generate
+
+3、文件位置：
+    默认生成文件在tmp文件夹下，拷贝至各项目
+	
+
